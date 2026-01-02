@@ -1,0 +1,6 @@
+ipykernel
+langchain
+langchain-groq
+groq
+dotenv
+os
